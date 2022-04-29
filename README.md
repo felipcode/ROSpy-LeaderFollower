@@ -5,6 +5,10 @@
 `cd ~catkin_ws`
 
  `source devel/setup.bash`
+ 
+ ### build project
+ 
+ `catkin_make`
 
 
 ## To test it i opened 3 diferent terminals:
