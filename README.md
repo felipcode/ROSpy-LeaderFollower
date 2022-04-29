@@ -1,28 +1,32 @@
 ## Clone it
-`git clone https://github.com/felipcode/ROSpy-LeaderFollower.git` 
+`$ git clone https://github.com/felipcode/ROSpy-LeaderFollower.git` 
 
 ## In the WorsSpace folder:
-`cd ~catkin_ws`
+`$ cd ~catkin_ws`
 
- `source devel/setup.bash`
+ `$ source devel/setup.bash`
  
- ### build project
+### Build project
  
- `catkin_make`
+ `$ catkin_make`
 
 
 ## To test it i opened 3 diferent terminals:
 ### One to run the .launch file ->
-`cd ~catkin_ws`
+`$ cd ~catkin_ws`
 
- `roslaunch /src/follow_/src/launch/two_tb3.launch`
+`$ roslaunch /src/follow_/src/launch/two_tb3.launch`
 
 ### Another to run leader-follower file ->
-`cd ~catkin_ws`
+`$ cd ~catkin_ws`
 
-`rosrun follow_ turtlebot3_teleop_key.py`
+`$ rosrun follow_ turtlebot3_teleop_key.py`
 
 ### And a third to run the teleop of leader robot ->
-`cd ~catkin_ws`
+`$ cd ~catkin_ws`
 
-`rosrun follow_ turtlebot3_teleop_key.py`
+`$ rosrun follow_ turtlebot3_teleop_key.py`
+
+
+## After the teleop file is running this should happen
+![brave_Ze6L2SXyBH](https://user-images.githubusercontent.com/42594579/166072254-384654ec-189e-4fe0-81f2-402173851bfd.gif)
