@@ -1,0 +1,8 @@
+prefix=/home/lip/robotics/ROS/atividades/desafio1/follow_me_ws/install
+
+Name: follow_
+Description: Description of follow_
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
