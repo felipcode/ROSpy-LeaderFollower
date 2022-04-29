@@ -7,8 +7,8 @@
  `source devel/setup.bash`
 
 
-## To test it I opened 3 diferent terminals:
-### One to run de .launch file ->
+## To test it i opened 3 diferent terminals:
+### One to run the .launch file ->
 `cd ~catkin_ws`
 
  `roslaunch /src/follow_/src/launch/two_tb3.launch`
