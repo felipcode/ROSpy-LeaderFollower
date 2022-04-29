@@ -30,3 +30,7 @@
 
 ## After the teleop file is running this should happen
 ![brave_Ze6L2SXyBH](https://user-images.githubusercontent.com/42594579/166072254-384654ec-189e-4fe0-81f2-402173851bfd.gif)
+
+
+
+Inspired by the work of: https://github.com/lcaldeira/Rosject2_Turtlebot
