@@ -1,7 +1,7 @@
 ## Clone it
 `$ git clone https://github.com/felipcode/ROSpy-LeaderFollower.git` 
 
-## In the WorsSpace folder:
+## In the WorskSpace folder:
 `$ cd ~catkin_ws`
 
  `$ source devel/setup.bash`
