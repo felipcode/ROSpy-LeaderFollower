@@ -1,4 +1,4 @@
-## Clone it
+## Clone it 😎🫵🏼
 `$ git clone https://github.com/felipcode/ROSpy-LeaderFollower.git` 
 
 ## In the WorkSpace folder:
