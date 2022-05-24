@@ -25,7 +25,7 @@
 ### And a third to run the teleop of leader robot -> 
 `$ cd ~catkin_ws`
 
-`$ rosrun follow_ turtlebot3_teleop_key.py`
+`$ rosrun follow_ tb3_flw.py`
 
 
 ## After the teleop file is running this should happen 
